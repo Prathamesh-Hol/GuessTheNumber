@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  height: 380px;
+  width: 570px;
+  border: 2px solid rgb(165, 164, 164);
+  margin: auto;
+  transform: translate(0%,50%);
+}
+
+button {
+  margin-top: 10px;
+  margin-right: 5px;
+  font-size: 18px;
+  padding: 3px;
+}
+
+input {
+  font-size: 17px;
+  margin-top: 4px;
+}
+
+label {
+  font-size: 17px;
+}
+
+h2 {
+  font-style: italic;
+}
+
+h1,h2,h3{
+  font-family: "Times New Roman", Times, serif;
+}
+
+img {
+  margin-top: 10px;
+  width:180px;
+  height:180px;
+}
